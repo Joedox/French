@@ -2,7 +2,7 @@
 <LanguageData>
 
 		<!-- +++++ Abilities_Commissar +++++ -->
-<VME_EnforceCompliance.label>enforce compliance</VME_EnforceCompliance.label>
+<VME_EnforceCompliance.label>enforce compliance TEST</VME_EnforceCompliance.label>
 <VME_EnforceCompliance.description>Executes a colonist. Every colonist sharing the Commissars ideoligion receives a positive mood bonus.</VME_EnforceCompliance.description>
 
 
