@@ -53,7 +53,7 @@
 
 
 		<!-- +++++ Abilities_Nurse +++++ -->
-<VME_MedicalEmergency.label>urgence médicaley</VME_MedicalEmergency.label>
+<VME_MedicalEmergency.label>urgence médicale</VME_MedicalEmergency.label>
 <VME_MedicalEmergency.description>Annule le besoin de repos, de faim et de divertissement de l'infirmière pendant 12 heures. Pendant ce temps, l'infirmière ne peut faire que les tâches de docteur correctement.</VME_MedicalEmergency.description>
 
 
